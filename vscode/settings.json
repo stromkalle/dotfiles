@@ -1,0 +1,15 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.matchBrackets": "never",
+  "editor.suggestSelection": "first",
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "javascript.updateImportsOnFileMove.enabled": "always"
+}
